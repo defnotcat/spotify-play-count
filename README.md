@@ -1,4 +1,4 @@
-# Spotify Play Count Fetcher (Outdated, they updated endpoint already)
+# Spotify Play Count Fetcher
 
 A simple script to fetch play count of all the songs available on a artist' page
 
